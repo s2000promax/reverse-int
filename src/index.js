@@ -7,6 +7,6 @@ module.exports = function reverse (n) {
     number += string[string.length - 1 - index]
   }
 
-  return number;
+  return Number(number);
   
 }
