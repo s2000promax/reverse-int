@@ -1,4 +1,4 @@
-module.exports = function reverse (n) {
+module.exports = function reversed (n) {
     
       let string = Math.abs(number) +'';
   number = '';
